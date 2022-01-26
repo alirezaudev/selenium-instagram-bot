@@ -12,5 +12,5 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 ```` 
 ## Run
 1. Enter your instagram User name and password
-2. Enter the post who you want
+2. Enter the post link
 3. just wait
