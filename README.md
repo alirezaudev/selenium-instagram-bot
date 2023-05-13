@@ -1,4 +1,4 @@
-# TODO
+# Options
 - selenium login instagram
 - save all users who liked intagram post in 'users.txt'
 
