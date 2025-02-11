@@ -1,7 +1,5 @@
 '''
-instagram: imalireza.py
-telegram: imalireza_py
-github: https://github.com/imalirezapy
+github: https://github.com/alirezaudev
 '''
 
 # pip install selenium
